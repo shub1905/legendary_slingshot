@@ -19,8 +19,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".displaymessageactivity"
-            android:label="@string/title_activity_displaymessageactivity"
+            android:name=".DisplayMessageActivity"
+            android:label="@string/title_activity_display_message"
             android:parentActivityName=".MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
